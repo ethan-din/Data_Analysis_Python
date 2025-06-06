@@ -2,7 +2,7 @@
 
 Data Nerds! This repo contains all the notebooks needed to follow along my free course: [Python for Data Analytics](https://lukebarousse.com/python)
 
-[![Python for Data Analytics](3_Project/images/Python_Data_Analytics_YT.png)](https://youtu.be/wUSDVGivd-8)
+<!-- [![Python for Data Analytics](3_Project/images/Python_Data_Analytics_YT.png)](https://youtu.be/wUSDVGivd-8) -->
 ## Team Members 👥
 **🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
 **🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
