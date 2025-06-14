@@ -57,3 +57,4 @@ Data Nerds! This repo contains all the notebooks needed to follow along my free 
     - Forking the repo
     - Making any changes
     - Submitting a pull request
+    
